@@ -1,2 +1,2 @@
 # 构建应用
-build_opencv_app("opencv" "roi")
+build_opencv_app("opencv" "mask")

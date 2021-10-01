@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8)
 
-project(opencv-mask)
+project("opencv-salf-and-papper-noise")
 
 # 引入公共脚本文件
 include("${PROJECT_SOURCE_DIR}/build.cmake")
