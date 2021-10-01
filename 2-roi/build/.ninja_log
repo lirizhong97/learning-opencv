@@ -1,0 +1,19 @@
+# ninja log v5
+0	5554	1633086643	src/CMakeFiles/template.dir/main.cpp.o	dc460f14d61ea46f
+5556	8044	1633086645	bin/template	8bc7b6e5b0c68408
+1	3361	1633086804	src/CMakeFiles/template.dir/main.cpp.o	dc460f14d61ea46f
+3361	5249	1633086806	bin/template	8bc7b6e5b0c68408
+0	2901	1633092453	src/CMakeFiles/roi.dir/main.cpp.o	4a93a8618ed9a5c
+2901	3630	1633092454	bin/roi	665d265625e724e0
+1	2414	1633092544	src/CMakeFiles/roi.dir/main.cpp.o	4a93a8618ed9a5c
+2414	2585	1633092544	bin/roi	665d265625e724e0
+3	2579	1633092672	src/CMakeFiles/roi.dir/main.cpp.o	4a93a8618ed9a5c
+2579	2747	1633092672	bin/roi	665d265625e724e0
+1	2480	1633092713	src/CMakeFiles/roi.dir/main.cpp.o	4a93a8618ed9a5c
+2480	2648	1633092713	bin/roi	665d265625e724e0
+1	2482	1633092724	src/CMakeFiles/roi.dir/main.cpp.o	4a93a8618ed9a5c
+2482	2645	1633092724	bin/roi	665d265625e724e0
+2	2743	1633092735	src/CMakeFiles/roi.dir/main.cpp.o	4a93a8618ed9a5c
+2743	2912	1633092735	bin/roi	665d265625e724e0
+2	2526	1633092751	src/CMakeFiles/roi.dir/main.cpp.o	4a93a8618ed9a5c
+2526	2691	1633092752	bin/roi	665d265625e724e0
