@@ -36,7 +36,7 @@ int main(int argc, char **argv)
         return -1;
     }
 
-    // 锐化处理：基于拉普拉斯算子。图像边缘会放大，图片变得更尖锐
+    // 图像矩阵运算
     Mat result;
     matrixOperation(backgroupImg, foregroupImg, result);
 
